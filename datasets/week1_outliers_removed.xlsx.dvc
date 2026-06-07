@@ -1,0 +1,5 @@
+outs:
+- md5: 482505d116ecce87ac32c6e4f3b746bd
+  size: 102435
+  hash: md5
+  path: week1_outliers_removed.xlsx
