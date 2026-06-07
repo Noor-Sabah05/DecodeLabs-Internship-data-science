@@ -1,0 +1,5 @@
+outs:
+- md5: 10f7f9cb6375861aa3b23670511636e2
+  size: 103064
+  hash: md5
+  path: week1_cleaned.xlsx
