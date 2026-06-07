@@ -1,1 +1,8 @@
-datasets/   
+# Ignore raw data but allow DVC metadata
+datasets/*
+!datasets/*.dvc
+!datasets/.gitignore
+
+# Python / Jupyter noise
+__pycache__/
+.ipynb_checkpoints/

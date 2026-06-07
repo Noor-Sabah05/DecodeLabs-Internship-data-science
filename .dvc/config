@@ -1,0 +1,6 @@
+[core]
+    remote = origin
+['remote "origin"']
+    url = https://dagshub.com/noorsammy32/DecodeLabs-Internship-data-science.dvc
+    auth = basic
+    user = noorsammy32
