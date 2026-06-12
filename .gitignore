@@ -6,3 +6,7 @@ datasets/*
 # Python / Jupyter noise
 __pycache__/
 .ipynb_checkpoints/
+venv/
+# Ignore logs and temporary files
+*.logs
+env/

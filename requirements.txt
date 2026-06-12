@@ -1,0 +1,9 @@
+pydantic
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+dagshub
+mlflow
+dvc
